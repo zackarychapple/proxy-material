@@ -55,6 +55,9 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "angularCompilerOptions": {
+              "enableIvy": true
             }
           }
         },
